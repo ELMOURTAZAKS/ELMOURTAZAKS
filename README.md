@@ -31,8 +31,6 @@ I build full-stack applications with a focus on backend engineering and systems 
 **Development workflow**  
 Understand the problem → Build → Test → Ship → Observe
 
-[View the résumé source](https://github.com/ELMOURTAZAKS/ELMOURTAZAKS/blob/main/site/index.html)
-
 ## 01 / Projects across the stack
 
 <table>
