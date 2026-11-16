@@ -13,34 +13,23 @@
 
 ## About me
 
-**Sami El Mourtazak** · Software engineering student in Morocco
+**Sami El Mourtazak**  
+Software engineering student in Morocco · **EMSI, 5DDSI**  
+*Développement Digital et Système d’Information*
 
-<table>
-  <tr>
-    <th width="50%" align="left" scope="col">Education and focus</th>
-    <th width="50%" align="left" scope="col">Tech stack</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p><strong>EMSI · 5DDSI</strong><br/>
-      Développement Digital et Système d’Information</p>
-      <p><strong>Engineering focus</strong><br/>
-      Full-stack development, backend engineering, and systems fundamentals.</p>
-      <p><strong>Currently learning</strong><br/>
-      Linux, Docker, CI/CD, deployment, and observability.</p>
-    </td>
-    <td valign="top">
-      <p><strong>Frontend</strong><br/>
-      React, Next.js, Angular, TypeScript, and JavaScript</p>
-      <p><strong>Backend and data</strong><br/>
-      Java, Spring Boot, NestJS, .NET, MySQL, PostgreSQL, and Neo4j</p>
-      <p><strong>Delivery</strong><br/>
-      Git, Linux, Docker, and CI/CD</p>
-    </td>
-  </tr>
-</table>
+I build full-stack applications with a focus on backend engineering and systems fundamentals.
 
-**Development workflow** · Understand the problem → Build → Test → Ship → Observe
+| Area | Tools |
+| :--- | :--- |
+| **Frontend** | `React` `Next.js` `Angular` `TypeScript` `JavaScript` |
+| **Backend & data** | `Java` `Spring Boot` `NestJS` `.NET` `MySQL` `PostgreSQL` `Neo4j` |
+| **Delivery** | `Git` `Linux` `Docker` `CI/CD` |
+
+> **Currently learning**  
+> Linux, Docker, CI/CD, deployment, and observability.
+
+**Development workflow**  
+Understand the problem → Build → Test → Ship → Observe
 
 [View the résumé source](https://github.com/ELMOURTAZAKS/ELMOURTAZAKS/blob/main/site/index.html)
 
