@@ -11,34 +11,38 @@
   <img src="https://komarev.com/ghpvc/?username=bimolas&style=flat-square&color=2A9D8F&label=PROFILE+VISITS" alt="Profile visits"/>
 </div>
 
-<br/>
+## About me
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/bimolas/bimolas/main/assets/terminal-card.svg" alt="Custom terminal card with the GitHub avatar converted to colored ASCII, full-stack focus, and live GitHub statistics"/>
-</div>
-
-## Résumé / Current focus
+**Sami El Mourtazak** · Software engineering student in Morocco
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <b>Education</b><br/>
-      EMSI · 5DDSI — Développement Digital et Système d'Information<br/><br/>
-      <b>Direction</b><br/>
-      Full-stack development, backend engineering, and systems fundamentals.
+    <th width="50%" align="left" scope="col">Education and focus</th>
+    <th width="50%" align="left" scope="col">Tech stack</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><strong>EMSI · 5DDSI</strong><br/>
+      Développement Digital et Système d’Information</p>
+      <p><strong>Engineering focus</strong><br/>
+      Full-stack development, backend engineering, and systems fundamentals.</p>
+      <p><strong>Currently learning</strong><br/>
+      Linux, Docker, CI/CD, deployment, and observability.</p>
     </td>
-    <td width="50%" valign="top">
-      <b>Working with</b><br/>
-      Java / Spring Boot · NestJS · TypeScript · SQL · web interfaces<br/><br/>
-      <b>Currently learning</b><br/>
-      Linux · Docker · CI/CD · deployment and observability.
+    <td valign="top">
+      <p><strong>Frontend</strong><br/>
+      React, Next.js, Angular, TypeScript, and JavaScript</p>
+      <p><strong>Backend and data</strong><br/>
+      Java, Spring Boot, NestJS, .NET, MySQL, PostgreSQL, and Neo4j</p>
+      <p><strong>Delivery</strong><br/>
+      Git, Linux, Docker, and CI/CD</p>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://ELMOURTAZAKS.github.io/bimELMOURTAZAKSolas/#resume"><img src="https://img.shields.io/badge/VIEW-PRINTABLE%20RÉSUMÉ-17212B?style=for-the-badge&logo=readthedocs&logoColor=8DE2BC" alt="View printable résumé"/></a>
-</div>
+**Development workflow** · Understand the problem → Build → Test → Ship → Observe
+
+[View the résumé source](https://github.com/ELMOURTAZAKS/ELMOURTAZAKS/blob/main/site/index.html)
 
 ## 01 / Projects across the stack
 
